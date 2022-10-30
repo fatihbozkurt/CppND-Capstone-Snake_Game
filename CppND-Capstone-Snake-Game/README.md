@@ -60,7 +60,7 @@ Finally in `main.cpp` file, **Controller**, **Renderer** and **Game** objects ar
 
 ### Rubric Points Addressed
 
-###README
+### README
 
 | CRITERIA | MEETS SPECIFICATIONS |
 | -- | -- |
