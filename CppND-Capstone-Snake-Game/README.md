@@ -60,9 +60,10 @@ Finally in `main.cpp` file, **Controller**, **Renderer** and **Game** objects ar
 
 ### Rubric Points Addressed
 
+###README
 
 | CRITERIA | MEETS SPECIFICATIONS |
-| -- | -- | -- |
+| -- | -- |
 | A README with instructions is included with the project |The README is included with the project and has instructions for building/running the project. If any additional libraries are needed to run the project, these are indicated with cross-platform installation instructions. You can submit your writeup as markdown or pdf.| |
 | The README indicates which project is chosen. | The README describes the project you have built. The README also indicates the file and class structure, along with the expected behavior or output of the program. | |
 | The README includes information about each rubric point addressed. | The README indicates which rubric points are addressed. The README also indicates where in the code (i.e. files and line numbers) that the rubric points are addressed. | |
@@ -70,13 +71,13 @@ Finally in `main.cpp` file, **Controller**, **Renderer** and **Game** objects ar
 ### Compiling and Testing
 
 | CRITERIA | MEETS SPECIFICATIONS |
-| -- | --| -- |
+| -- | -- |
 | The submission must compile and run. | The project code must compile and run without errors. We strongly recommend using cmake and make, as provided in the starter repos. If you choose another build system, the code must compile on any reviewer platform. |
 
 ### Loops, Functions, I/O
 
 | CRITERIA | MEETS SPECIFICATIONS | WHERE |
-| -- | --| -- |
+| -- | -- | -- |
 | The project demonstrates an understanding of C++ functions and control structures.| A variety of control structures are used in the project. The project code is clearly organized into functions.| Every *.cpp file |
 | The project reads data from a file and process the data, or the program writes data to a file. | The project reads data from an external file or writes data to a file as part of the necessary operation of the program.| reads user history in User.cpp  |
 | The project accepts user input and processes the input.|The project accepts input from a user as part of the necessary operation of the program.| input is accepted to control snake direction in controller.cpp  |
